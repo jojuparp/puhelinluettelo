@@ -56,15 +56,3 @@ switch (process.argv.length) {
     case 4: error()
     break
 }
-/* if ( process.argv.length === 5 ) {
-    const person = new Person({
-        name: name,
-        number: number
-    })
-      
-    person.save().then(response => {
-    console.log(`Added ${person.name} number ${person.number} to phonebook`);
-    mongoose.connection.close();
-    })
-} */
-
