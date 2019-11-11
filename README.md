@@ -1,4 +1,3 @@
-## Repo sisältää osan 3 tehtävät (puhelinluettelon backend)
+## Web-phonebook
 
-* Linkki backendiin Herokussa: https://stark-eyrie-12627.herokuapp.com/api/persons
-* Linkki fronttiin Herokussa: https://stark-eyrie-12627.herokuapp.com
+Yksinkertainen web-pohjainen puhelinluettelosovellus. Sovellus on käynnissä ja kokeiltavissa [täällä](https://stark-eyrie-12627.herokuapp.com/)
